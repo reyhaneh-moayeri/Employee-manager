@@ -24,9 +24,9 @@ export default {
 </script>
 
 <style scopped>
-.router-link-active{
+/* .router-link-active{
     color: #fff;
     text-decoration : none; 
      font-weight: bold;
-}
+} */
 </style>
